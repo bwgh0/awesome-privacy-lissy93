@@ -4860,6 +4860,17 @@ categories:
         followWith: Bitcoin or Ethereum & ERC-20 tokens
         github: digitalbitbox/bitbox-wallet-app
 
+      - name: Monero One
+        url: https://monero.one
+        icon: https://monero.one/apple-icon.png
+        description: |
+          Open source (MIT) Monero wallet for iPhone and Android, with no account and no analytics. You can use your own node. Keys live on the phone (a hot wallet), and Trezor Safe 7 support is iPhone only.
+        followWith: Monero
+        github: bwgh0/MoneroOne
+        iosApp: https://apps.apple.com/us/app/monero-one/id6757898541
+        androidApp: one.monero.moneroone
+        openSource: true
+
       notableMentions: |
         [Vultisig](https://vultisig.com/) is a seedless, self-custodial wallet.
         It uses MPC threshold signatures to split your key across several devices you own,
